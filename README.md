@@ -1,6 +1,11 @@
 # 42_Dr_Quine
 
 
+This project invites you to confront the principle of self-reproduction and the problems
+that derive from it. 
+It is a perfect introduction to more complex projects, particularly
+malware projects.
+
 ### RULES
 
 Comments should like this: 
@@ -17,8 +22,6 @@ And macro should be like this:
 [..]
 FT(xxxxxxxx)
 ```
-
-
 
 ## PART 1: Colleen
 
