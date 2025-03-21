@@ -1,5 +1,25 @@
 # 42_Dr_Quine
 
+
+### RULES
+
+Comments should like this: 
+```c
+/*
+    this is a comment
+*/
+```
+
+And macro should be like this:
+```c
+#include
+#define FT(x)int main(){ /* code */ }
+[..]
+FT(xxxxxxxx)
+```
+
+
+
 ## PART 1: Colleen
 
 - The executable must be named `Colleen`
